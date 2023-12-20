@@ -29,11 +29,11 @@ Step 5: after installing Git successfully without selecting anything.
 
  Step 12: 
  
- git init
- git add README.md
- git add remote origin <your repository link>
- git branch -M main
- git push origin main 
+ - git init
+ - git add README.md
+ - git add remote origin <your repository link>
+ - git branch -M main
+ - git push origin main 
 
 
  Step 13: you will get your authorization "by signing in on your browser"
